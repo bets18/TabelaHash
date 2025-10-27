@@ -7,7 +7,7 @@
 #define TAMANHO_TABELA 1201
 
 // constante para melhorar o espalhamento (sugestao dos slides)
-#define K 31 
+#define K 457 
 
 // metodo da divisao que deu o melhor resultado
 // a primeira versao que fizemos sem usar a constante K deu 30 colisoes a mais 
