@@ -6,8 +6,8 @@
 // foi pedido o primeiro primo depois de 1200 (1000 chaves + 20% de folga)
 #define TAMANHO_TABELA 1201
 
-// constante para melhorar o espalhamento (sugestao dos slides)
-#define K 457 
+// constante para melhorar o espalhamento de todas que testamos
+#define K 466 
 
 // metodo da divisao que deu o melhor resultado
 // a primeira versao que fizemos sem usar a constante K deu 30 colisoes a mais 
