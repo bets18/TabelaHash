@@ -50,9 +50,9 @@ int main() {
     long long tabela[TAMANHO_TABELA];
     inicializar_tabela(tabela);
 
-    FILE *arq = fopen("cpfs.txt", "r"); 
+    FILE *arq = fopen("mil cpfs.txt", "r"); 
     if (arq == NULL) {
-        printf("Erro ao abrir o arq 'cpfs.txt'");
+        printf("Erro ao abrir o arq 'mil cpfs.txt'");
         return 1;
     }
 
